@@ -6,7 +6,7 @@ const privateProjects: string = 'github.com/pacz-dev';
 class About extends Me {
     function getCurrentWorkplace() {
         return {
-            company: 'Ionos SE',
+            company: 'Simon Hegele',
             position: 'Software Developer'
         }
     }
